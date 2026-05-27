@@ -1,0 +1,9 @@
+date,product,quantity,price
+2026-05-01,Keyboard,2,120
+2026-05-01,Mouse,3,45
+2026-05-02,Monitor,1,650
+2026-05-02,Laptop,1,2800
+2026-05-03,USB Cable,,25
+2026-05-03,Webcam,2,abc
+2026-05-04,Mouse,-1,45
+2026-05-04,Keyboard,1,120
