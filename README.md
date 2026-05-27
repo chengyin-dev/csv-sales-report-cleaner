@@ -179,6 +179,7 @@ The cleaned version of the script introduced several improvements:
 ---
 
 # Screenshots
+The following screenshots show the debugging and cleanup process.
 
 ## Project Structure
 
